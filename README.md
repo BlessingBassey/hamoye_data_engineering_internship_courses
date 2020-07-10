@@ -13,3 +13,6 @@ An inter-disciplinary field that uses scientific methods, processes, algorithms 
 
 ## Data Engineering/MLOps
 A part of data science that focuses on practical applications of data collection and analysis. ML Operations (MLOps) relates to managing production ML lifecycle. 
+
+## Courses proper
+- `1st lesson` This is a `14 days Introduction to Python for Machine Learning course`, The course  explores how  machine learning techniques can be an invaluable tool for solving one of the grand challenges posed to humanity - climate change. At the of this course, I worked  on cleaning, wrangling, exploring, providing summary statistics and interesting visualisations on a public utility data containing millions of rows and tens of files in structured format. The jupyter note book `pandas` explains some of the techniques used (fully commented). 
